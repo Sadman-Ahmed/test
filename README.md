@@ -7,3 +7,7 @@ contact information added
 
 Tomnmoy is here 
 to learn github
+
+
+Tonmoy's personal description added; 
+Tonmoy's contact info added;
