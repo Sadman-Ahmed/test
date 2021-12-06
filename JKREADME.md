@@ -17,6 +17,11 @@
 A simple python Program:     
 
 ```python
-print('Hello World')
+a = int(input("Enter First Number: "))
+b = int(input("Enter second Number: "))
+
+c = a + b
+
+print("the sum is : " + c )
 ```
 
